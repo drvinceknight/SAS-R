@@ -1,6 +1,6 @@
 ---
 layout : default
-title  : 'Assessment'
+title  : '2013-2014 Individual Coursework'
 ---
 
 # MAT013 Coursework
