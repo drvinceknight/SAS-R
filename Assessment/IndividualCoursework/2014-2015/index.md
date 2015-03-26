@@ -1,5 +1,5 @@
 ---
-layout : default
+layout : page
 title  : '2014-2015 Individual Coursework'
 ---
 
@@ -42,10 +42,35 @@ The outputs of this coursework will be:
 
     Consider the data files [Admissions.csv](./Data/Admissions.csv) and [Discharges.csv](./Data/Discharges.csv) which contain admission and discharge data for two categories of patients.
 
+    - Obtain distributions of the overall inter arrival rates (reciprocal of the time between arrivals).
+    - Obtain distributions of the overall service rate (reciprocal of the length of stay).
+    - Visualise and discuss the differences of arrival and service rates between patient categories.
+
     [25]
 
 4. Using SAS or R:
 
-    Imogen data.
+    Consider the data set [personality_performance.csv](Data/personality_performance.csv) which contains data for student personality and performance in two separate subjects.
 
-    [20]
+    The personality traits are measured according to the following 6 dimensions:
+
+    - Openness-A
+    - Openness-B
+    - Conscientiousness
+    - Extraversion
+    - Agreeableness
+    - Neuroticism
+
+
+    Answer the following questions:
+
+
+    1. Obtain summary statistics for each personality trait. [5]
+    2. Obtain a suitable visualisation for the personality traits. [5]
+    3. Identify a measure that indicates performance in subject 1 relative to subject 2 ('How much better/worse students did in subject 1 relative to subject 2'). [5]
+    4. Explore and attempt to indicate parameters that influence:
+        - Performance in subject 1
+        - Performance in subject 2
+        - Relative performance
+
+    [10]
