@@ -5,7 +5,7 @@ title  : '2014-2015 Individual Coursework'
 
 # MAT013 Coursework
 
-*Deadline: 2015-05-07 (7th of May) at 0900*
+*Deadline: 2015-05-07 (7 of May) at 0900*
 
 ## Instructions
 
