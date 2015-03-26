@@ -24,15 +24,23 @@ The outputs of this coursework will be:
 
     [20]
 
-2. Using SAS:
+2. A perfect number is a natural number that is equal to the sum of its divisors (excluding itself). For example \\(1,2,4,7\\) and \\(14\\) divide \\(28\\) and \\(28=1+2+4+7+14\\).
 
-    Question about queues.
+    Write code in SAS that allows one to write to a csv file a data set with all natural numbers less than a given parameter \\(N\\) as well as a boolean variable indicating if the number is perfect or not.
+    For example, for \\(N=6\\) the csv file would contain the following:
+
+        1, False
+        2, False
+        3, False
+        4, False
+        5, False
+        6, True
 
     [25]
 
 3. Using R:
 
-    Perfect numbers.
+    Consider the data files [Admissions.csv](./Data/Admissions.csv) and [Discharges.csv](./Data/Discharges.csv) which contain admission and discharge data for two categories of patients.
 
     [25]
 
