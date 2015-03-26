@@ -1,3 +1,8 @@
+---
+layout : default
+title  : '2012-2013 Individual Coursework'
+---
+
 # MAT013 Coursework
 
 *Deadline: 8/5/2013 at 0900*
@@ -42,9 +47,9 @@ The outputs of this coursework will be:
 
 3. Using R:
 
-    Write a function that will return the $n$th [Fibonacci number](http://en.wikipedia.org/wiki/Fibonacci_number), $F(n)$.
+    Write a function that will return the \\(n\\)th [Fibonacci number](http://en.wikipedia.org/wiki/Fibonacci_number), \\(F(n)\\).
 
-    Modify the function so that it returns the $n$th number of the sequence defined by:
+    Modify the function so that it returns the \\(n\\)th number of the sequence defined by:
 
     $$\begin{aligned}
     K(0)&=a\\
@@ -54,7 +59,7 @@ The outputs of this coursework will be:
 
     Where $a,b,\alpha$ and $\beta$ are input parameters.
 
-    Adapt your function so that it will write all numbers of the form $K(n)$ less than some number $k$ to a csv file. The name of the csv file must not be an input parameter to the function but include the parameters $a,b,\alpha$ and $\beta$ as well as the date on which the code was run. For example: `general_fib_for-a=2-b=3-alpha=10-beta=-2_1984-14-02.csv`.
+    Adapt your function so that it will write all numbers of the form \\(K(n)\\) less than some number \\(k\\) to a csv file. The name of the csv file must not be an input parameter to the function but include the parameters \\(a,b,\alpha\\) and \\(\beta\\) as well as the date on which the code was run. For example: `general_fib_for-a=2-b=3-alpha=10-beta=-2_1984-14-02.csv`.
 
     [25]
 
@@ -72,10 +77,13 @@ The outputs of this coursework will be:
 - The optimal cost function obtained using method `B`: `B_Cost`;
 
 i. Give summary statistics for all the variables.
-[5]
+    [5]
+
 ii. Obtain a 3 dimensional representation (eg surface or contour) showing the proportion of times that method `B` finds a better solution based on the dimensions of the problem.
-[5]
+    [5]
+
 iii. Obtain a distribution of the gains made by method `B` over method `A`.
-[10]
+    [10]
+
 iv. Explore and attempt to indicate parameters that influence the performance of either method (and when method `B` is better).
-[10]
+    [10]
