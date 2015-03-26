@@ -1,3 +1,8 @@
+---
+layout : default
+title  : 'Assessment'
+---
+
 # MAT013 Coursework
 
 *Deadline: 2013-05-09 at 0900*
