@@ -5,11 +5,13 @@ title  : 'MAT013: SAS - R'
 
 <div class="home">
     <h1><a href='{{site.baseurl}}/ProblemSheets'>Problem Sheets</a></h1>
+    <ul>
 {% for page in site.pages %}
     {% if page.categories contains 'problemsheet' %}
     <li><a href='{{ page.url | prepend: site.baseurl }}'>{{ page.title }}</a></li>
     {% endif %}
 {% endfor %}
+    </ul>
 
     <h1><a href='{{site.baseurl}}/Data'>Data Files</a></h1>
 
