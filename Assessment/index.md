@@ -13,5 +13,5 @@ title  : 'Assessment'
 # Current Assessments
 
 - [2014-2015: Individual Coursework]({{site.baseurl}}/Assessment/IndividualCoursework/2014-2015)
-
+- [2014-2015: Class Test]({{site.baseurl}}/Assessment/ClassTest/2014-2015)
 - [2014-2015: Group Coursework]({{site.baseurl}}/Assessment/GroupCoursework/)
