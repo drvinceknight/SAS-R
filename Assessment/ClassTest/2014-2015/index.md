@@ -33,7 +33,7 @@ Once you have finished the test:
         C1.csv, C2.csv
         ...
 
-    For each pair create a new data set `A.csv, B.csv, C.csv etc...` which
+    For each pair write a new data file `A.csv, B.csv, C.csv etc...` which
     merges both files on the variable `ID` but ensuring that _**all entries from
     the `*2.csv` file are included**_ (even if they are missing from the `*1.csv`
     file).
@@ -46,7 +46,7 @@ Once you have finished the test:
     divisors (excluding itself). For example \\(1,2,4,7\\) and \\(14\\) divide
     \\(28\\) and \\(28=1+2+4+7+14\\).
 
-    Write code that write to a csv file the first 10000 Natural numbers as well
+    Write code that writes to a csv file the first 10000 Natural numbers as well
     as a boolean variable indicating whether or not that number is perfect.
 
     [25]
