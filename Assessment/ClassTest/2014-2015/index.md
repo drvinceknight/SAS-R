@@ -24,8 +24,19 @@ Once you have finished the test:
 
 2. Using SAS:
 
-    Something to do with pairs of files that need an outer right merge in a
-    zipped folder.
+    The following directory:
+    [pairs.zip]({{site.baseurl}}/Assessment/ClassTest/2014-2015/data/pairs.zip)
+    contains 20 pairs of data sets:
+
+        A1.csv, A2.csv
+        B1.csv, B2.csv
+        C1.csv, C2.csv
+        ...
+
+    For each pair create a new data set `A.csv, B.csv, C.csv etc...` which
+    merges both files on the variable `ID` but ensuring that _**all entries from
+    the `*2.csv` file are included**_ (even if they are missing from the `*1.csv`
+    file).
 
     [25]
 
@@ -40,10 +51,27 @@ Once you have finished the test:
 
     [25]
 
-4. Using either SAS or R:
+4. Using either SAS or R, solve the following problem:
 
-    The data set blablabla contains data for a number of fields...
+    The farmers’ union has asked all of the farmers to send in data sets with
+    regards to the dimensions of their fields:
 
-    Picture
+    - Each farmer can have multiple fields
+    - The fields can be of various shapes as shown below:
 
-    Create a new data set that gets value of field depending on type of field.
+    ![]({{site.baseurl}}/Assessment/ClassTest/2014-2015/images/fields.png)
+
+    - Each farmer might have made mistakes when filling in his data files.
+    - If a dimension has value 0 it can be assumed that the particular field does
+    not have that dimension.
+
+    Answer the following questions:
+
+    1. Using all the files available in
+    [Farmer_Fields.zip]({{site.baseurl}}/Assessment/ClassTest/2014-2015/data/Farmer_Fields.zip)
+    obtain the mean area of each field type. [15]
+    2. What is the name of the Farmer with the biggest total field area? [5]
+    3. What is the name of the Farmer with the smallest total field area? [5]
+    4. Which farmer has the most fields? [5]
+    5. Is there a correlation between number of fields and mean area of fields?
+    [10]
