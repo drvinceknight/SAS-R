@@ -2,12 +2,12 @@ import string
 import csv
 import random
 
-labels = string.ascii_uppercase[:20]
+labels = range(1, 21)
 print labels
 
 for f in labels:
-    one = open("{}1.csv".format(f), 'w')
-    two = open("{}2.csv".format(f), 'w')
+    one = open("{0:0=2d}A.csv".format(f), 'w')
+    two = open("{0:0=2d}B.csv".format(f), 'w')
     csvwrtr1 = csv.writer(one)
     csvwrtr2 = csv.writer(two)
     csvwrtr1.writerow(['ID', 'Var1'])
