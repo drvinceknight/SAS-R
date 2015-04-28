@@ -6,8 +6,8 @@ labels = range(1, 21)
 print labels
 
 for f in labels:
-    one = open("{0:0=2d}A.csv".format(f), 'w')
-    two = open("{0:0=2d}B.csv".format(f), 'w')
+    one = open("A_{}.csv".format(f), 'w')
+    two = open("B_{}.csv".format(f), 'w')
     csvwrtr1 = csv.writer(one)
     csvwrtr2 = csv.writer(two)
     csvwrtr1.writerow(['ID', 'Var1'])

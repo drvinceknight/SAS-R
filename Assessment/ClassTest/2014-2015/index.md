@@ -28,15 +28,15 @@ Once you have finished the test:
     [pairs.zip]({{site.baseurl}}/Assessment/ClassTest/2014-2015/data/pairs.zip)
     contains 20 pairs of data sets:
 
-        01A.csv, 01B.csv
-        02A.csv, 02B.csv
-        03A.csv, 02B.csv
+        A_1.csv, B_1.csv
+        A_2.csv, B_2.csv
+        A_3.csv, B_2.csv
         ...
-        20A.csv, 20B.csv
+        B_20.csv, B_20.csv
 
-    For each pair write a new data file `1.csv, 2.csv, 3.csv etc...` which
+    For each pair write a new data file `M_1.csv, M_2.csv, M_3.csv etc...` which
     merges both files on the variable `ID` but ensuring that _**all entries from
-    the `*A.csv` file are included**_ (even if they are missing from the `*B.csv`
+    the `A_*.csv` file are included**_ (even if they are missing from the `B_*.csv`
     file).
 
     [25]
