@@ -36,7 +36,7 @@ Once you have finished the test:
 
     For each pair write a new data file `M_1.csv, M_2.csv, M_3.csv etc...` which
     merges both files on the variable `ID` but ensuring that _**all entries from
-    the `A_*.csv` file are included**_ (even if they are missing from the `B_*.csv`
+    the `B_*.csv` file are included**_ (even if they are missing from the `A_*.csv`
     file).
 
     [25]
