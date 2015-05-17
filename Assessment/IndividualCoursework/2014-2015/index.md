@@ -67,7 +67,7 @@ The outputs of this coursework will be:
 
     1. Obtain summary statistics for each personality trait. [5]
     2. Obtain a suitable visualisation for the personality traits. [5]
-    3. Identify a measure that indicates performance in subject 1 relative to subject 2 ('How much better/worse students did in subject 1 relative to subject 2'). [5]
+    3. Identify a measure that indicates performance in subject 1 relative to subject 2 ('How much better/worse students did in subject 1 relative to subject 2'). [10]
     4. Explore and attempt to indicate parameters that influence:
         - Performance in subject 1
         - Performance in subject 2
