@@ -112,7 +112,7 @@ comments    : true
 
     The relevant data can be found [here]({{site.baseurl}}/Data/index.html):
 
-26. (_Challenge: C4_) Create a function in R that outputs the first \\(k\\) prime number to a csv file (do so without using any built in test for primality).
+26. (_Challenge: C4_) Create a function in R that outputs the first \\(k\\) prime numbers to a csv file (do so without using any built in test for primality).
 Build the function so that it takes two input arguments:
 
     - \\(k\\)

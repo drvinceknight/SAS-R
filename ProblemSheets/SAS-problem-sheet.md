@@ -103,7 +103,7 @@ comments    : false
 
 25. Download the file [birthdays.csv]({{site.baseurl}}/Data/birthdays.csv) import it and sort the data set by date of birth.
 
-26. (_Challenge: C4)_ Create a macro in SAS that outputs the first \\(k\\) prime number to a csv file (do so without using any built in test for primality). Build the macro so that it takes two input arguments:
+26. (_Challenge: C4)_ Create a macro in SAS that outputs the first \\(k\\) prime numbers to a csv file (do so without using any built in test for primality). Build the macro so that it takes two input arguments:
 
     - \\(k\\)
     - a string: the name of the output file.
