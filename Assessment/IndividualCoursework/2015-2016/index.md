@@ -5,16 +5,16 @@ title  : '2015-2016 Individual Coursework'
 
 # MAT013 Coursework
 
-*Deadline: TBD*
+*Deadline: 2016/05/11*
 
 ## Instructions
 
 The outputs of this coursework will be:
 
-- A written report describing your code (SAS and R) to be handed in to Joanna Emery.
-- An appendix containing a commented version of your code (SAS and R) to be handed in to Joanna Emery.
-- A file containing the required SAS code. Name this file SAS-lastname-STUDENTNUMBER (eg. SAS-Knight-123456) and email it to Joanna Emery with MAT013 as the subject. Note that all operations needed to complete the coursework should be included in the SAS code.
-- A file containing the required R code. Name this file R-lastname-STUDENTNUMBER (eg. R-Knight-123456) and email it to Joanna Emery with MAT013 as the subject. Note that all operations needed to complete the coursework should be included in the R code.
+- A written report describing your code (SAS and R) to be handed in to Lauren Trundle.
+- An appendix containing a commented version of your code (SAS and R) to be handed in to Lauren Trundle.
+- A file containing the required SAS code. Name this file SAS-lastname-STUDENTNUMBER (eg. SAS-Knight-123456) and email it to Lauren Trundle with MAT013 as the subject. Note that all operations needed to complete the coursework should be included in the SAS code.
+- A file containing the required R code. Name this file R-lastname-STUDENTNUMBER (eg. R-Knight-123456) and email it to Lauren Trundle with MAT013 as the subject. Note that all operations needed to complete the coursework should be included in the R code.
 
 ## Coursework
 
