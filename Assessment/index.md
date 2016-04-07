@@ -16,3 +16,4 @@ title  : 'Assessment'
 
 - [2015-2016: Individual Coursework]({{site.baseurl}}/Assessment/IndividualCoursework/2015-2016)
 - [2015-2016: Group Coursework]({{site.baseurl}}/Assessment/GroupCoursework/)
+- [2015-2016: Class Test]({{site.baseurl}}/Assessment/ClassTest/2015-2016)
