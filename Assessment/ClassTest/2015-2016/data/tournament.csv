@@ -1,0 +1,56 @@
+Player 1 Name,Player 2 Name,P1 Score Rep 1,P2 Score Rep 1,P1 Score Rep 2,P2 Score Rep 2,P1 Score Rep 3,P2 Score Rep 3,P1 Score Rep 4,P2 Score Rep 4,P1 Score Rep 5,P2 Score Rep 5
+Suspicious Tit For Tat,ALLCorALLD,10,10,32,27,32,27,32,27,32,27
+Defector,Win-Stay Lose-Shift,30,5,30,5,30,5,30,5,30,5
+Anti Tit For Tat,Cooperator,48,3,48,3,48,3,48,3,48,3
+Defector,Random,14,9,34,4,26,6,14,9,38,3
+Suspicious Tit For Tat,Tit For Tat,25,25,25,25,25,25,25,25,25,25
+Bully,Random,14,29,24,19,24,19,18,23,17,27
+Tit For Tat,ALLCorALLD,30,30,9,14,9,14,9,14,9,14
+Alternator,Win-Stay Lose-Shift,26,21,26,21,26,21,26,21,26,21
+Random,ALLCorALLD,44,9,46,6,44,9,2,42,6,26
+Alternator,Alternator,20,20,20,20,20,20,20,20,20,20
+Anti Tit For Tat,Tit For Tat,26,21,26,21,26,21,26,21,26,21
+Cooperator,Win-Stay Lose-Shift,30,30,30,30,30,30,30,30,30,30
+Alternator,Cooperator,40,15,40,15,40,15,40,15,40,15
+Bully,Suspicious Tit For Tat,19,24,19,24,19,24,19,24,19,24
+Suspicious Tit For Tat,Random,19,19,27,27,19,14,24,19,18,18
+Anti Tit For Tat,Bully,0,50,0,50,0,50,0,50,0,50
+Defector,ALLCorALLD,50,0,10,10,10,10,10,10,10,10
+Cooperator,Cooperator,30,30,30,30,30,30,30,30,30,30
+Bully,ALLCorALLD,50,0,1,46,50,0,50,0,1,46
+Defector,Defector,10,10,10,10,10,10,10,10,10,10
+Anti Tit For Tat,Suspicious Tit For Tat,21,26,21,26,21,26,21,26,21,26
+Cooperator,Tit For Tat,30,30,30,30,30,30,30,30,30,30
+Bully,Bully,20,20,20,20,20,20,20,20,20,20
+Win-Stay Lose-Shift,ALLCorALLD,30,30,30,30,5,30,30,30,30,30
+Anti Tit For Tat,Anti Tit For Tat,20,20,20,20,20,20,20,20,20,20
+Alternator,Anti Tit For Tat,20,20,20,20,20,20,20,20,20,20
+Bully,Tit For Tat,24,19,24,19,24,19,24,19,24,19
+Tit For Tat,Tit For Tat,30,30,30,30,30,30,30,30,30,30
+Defector,Suspicious Tit For Tat,10,10,10,10,10,10,10,10,10,10
+Alternator,Defector,5,30,5,30,5,30,5,30,5,30
+Suspicious Tit For Tat,Suspicious Tit For Tat,10,10,10,10,10,10,10,10,10,10
+Anti Tit For Tat,Defector,0,50,0,50,0,50,0,50,0,50
+Win-Stay Lose-Shift,Win-Stay Lose-Shift,30,30,30,30,30,30,30,30,30,30
+Cooperator,ALLCorALLD,0,50,30,30,30,30,0,50,0,50
+Bully,Cooperator,50,0,50,0,50,0,50,0,50,0
+Anti Tit For Tat,ALLCorALLD,48,3,0,50,48,3,48,3,48,3
+Tit For Tat,Random,27,27,18,23,22,22,21,21,24,24
+Tit For Tat,Win-Stay Lose-Shift,30,30,30,30,30,30,30,30,30,30
+Alternator,Random,22,22,27,22,15,25,31,21,20,25
+Cooperator,Suspicious Tit For Tat,27,32,27,32,27,32,27,32,27,32
+Bully,Win-Stay Lose-Shift,32,12,32,12,32,12,32,12,32,12
+Defector,Tit For Tat,14,9,14,9,14,9,14,9,14,9
+Win-Stay Lose-Shift,Random,30,20,24,24,17,27,16,26,22,27
+Suspicious Tit For Tat,Win-Stay Lose-Shift,23,18,23,18,23,18,23,18,23,18
+ALLCorALLD,ALLCorALLD,0,50,30,30,30,30,50,0,30,30
+Alternator,Bully,17,22,17,22,17,22,17,22,17,22
+Cooperator,Random,18,38,18,38,15,40,15,40,21,36
+Alternator,Tit For Tat,28,23,28,23,28,23,28,23,28,23
+Anti Tit For Tat,Random,34,14,18,28,36,11,23,23,30,15
+Random,Random,29,19,21,26,25,15,31,16,18,28
+Anti Tit For Tat,Win-Stay Lose-Shift,30,15,30,15,30,15,30,15,30,15
+Alternator,ALLCorALLD,40,15,5,30,40,15,5,30,40,15
+Alternator,Suspicious Tit For Tat,25,25,25,25,25,25,25,25,25,25
+Cooperator,Defector,0,50,0,50,0,50,0,50,0,50
+Bully,Defector,1,46,1,46,1,46,1,46,1,46
