@@ -56,7 +56,7 @@ Once you have finished the test:
 
 4. Using either SAS or R:
 
-   The files [Game_1.csv](./Data/Game_1.csv), [Game_2.csv](./Data/Game_2.csv), [Game_3.csv](./Data/Game_3.csv), [Game_4.csv](./Data/Game_4.csv), [Game_5.csv](./Data/Game_5.csv), [Game_6.csv](./Data/Game_6.csv) contain data for guesses of the game "2/3rds of the average":
+   The files [Game_1.csv]({{site.baseurl}}/Data/Game_1.csv), [Game_2.csv]({{site.baseurl}}/Data/Game_2.csv), [Game_3.csv]({{site.baseurl}}/Data/Game_3.csv), [Game_4.csv]({{site.baseurl}}/Data/Game_4.csv), [Game_5.csv]({{site.baseurl}}/Data/Game_5.csv), [Game_6.csv]({{site.baseurl}}/Data/Game_6.csv) contain data for guesses of the game "2/3rds of the average":
 
    > "All individuals must guess a number between 0 and 100 (inclusive). The winner of the game is the guess that is closest to two thirds of the average of all guesses."
 
