@@ -24,15 +24,19 @@ Once you have finished the test:
 
 2. Using SAS:
 
-    Write a macro that will create a separate pdf file of a scatter plot for every data set in the compressed directory [scatterdata.zip](./Data/scatterdata.zip).
-    All files in the directory contain two columns of numerical data.
-    Use the name of each file as the name of the pdf file.
+    Write a macro that will create a separate pdf file of a scatter plot for
+    every data set in the compressed directory
+    [scatterdata.zip]({{site.baseurl}}/Data/scatterdata.zip).  All files in the
+    directory contain two columns of numerical data.  Use the name of each file
+    as the name of the pdf file.
 
     [25]
 
 3. Using R:
 
-    Obtain the profits (income \\(-\\) costs) of each company that is present in **both** data sets [incomes.csv](./Data/incomes.csv) and [costs.csv](./Data/costs.csv).
+    Obtain the profits (income \\(-\\) costs) of each company that is present in
+    **both** data sets [incomes.csv]({{site.baseurl}}/Data/incomes.csv) and
+    [costs.csv]({{site.baseurl}}/Data/costs.csv).
 
     Draw a histogram of these profits and also obtain a linear relationship between income and profits.
 
