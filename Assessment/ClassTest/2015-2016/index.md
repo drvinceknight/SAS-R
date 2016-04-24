@@ -26,12 +26,12 @@ Once you have finished the test:
 
     The following directory:
     [numbers.zip]({{site.baseurl}}/Assessment/ClassTest/2015-2016/data/numbers.zip)
-    contains 20 files containing columnes of numbers.
+    contains 20 files containing columns of numbers.
 
         N_1.csv
         N_2.csv
         N_3.csv
-        .
+        ...
         N_20.csv
 
     Write code that creates 2 new data sets:
@@ -39,13 +39,13 @@ Once you have finished the test:
         even.csv
         odd.csv
 
-    which writes all even numbers in `even.csv` and odd numbers in `odd.csv`.
+    which writes all even numbers to `even.csv` and odd numbers to `odd.csv`.
 
     [25]
 
 3. Using R:
 
-    Consider the following 'random walk': a coordinate makes uniformly random
+    Consider a 'random walk' in which a coordinate makes uniformly random
     steps 'left' (-1) or 'right' (+1).
 
     For example the following:
@@ -70,15 +70,18 @@ Once you have finished the test:
         Suspicious Tit For Tat,ALLCorALLD,10,10,32,27,32,27,32,27,32,27
         Defector,Win-Stay Lose-Shift,30,5,30,5,30,5,30,5,30,5
 
-    This data set corresponds to a tournament between a number of players.
-    Every row corresponds to a match between two players in a tournament.  The
-    first two columns are names of the two players. The match between these two
-    players is repeated 5 times and that is what is in the subsequence columns.
+    This data set corresponds to a tournament between a number of players (the
+    game itself is not important).  Every row corresponds to a match between two
+    players in a tournament.  The first two columns are names of the two
+    players. The match between these two players is repeated 5 times and that is
+    what is in the subsequent columns.
 
     The above example shows that a player named `Suspicious Tit For Tat` played
     a player call `AllCorAllD`. In their first match they both scored 10, in their
     second match `Suspicious Tit For Tat` scored 32 nd `AllCorAllD` scored 27. This
     score was then repeated for the next 3 repetitions.
+
+    <br>
 
     1. How many matches are in the data set?
 
