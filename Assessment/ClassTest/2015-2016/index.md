@@ -85,16 +85,16 @@ Once you have finished the test:
 
     1. How many matches are in the data set?
 
-    [5]
+       [5]
 
     2. How many players are in the data set?
 
-    [10]
+       [10]
 
     3. What is the total score for each player?
 
-    [10]
+       [10]
 
     4. Obtain a distribution/histogram of scores for each player?
 
-    [15]
+       [15]
